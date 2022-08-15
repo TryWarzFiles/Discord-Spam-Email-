@@ -1,5 +1,7 @@
 # Discord-Spam-Email
 
-```diff
-python main.py <token>
+#### ・Usage
+```py
+py main.py <token>
 ```
+
